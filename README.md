@@ -6,3 +6,4 @@ modified in new-feature branch
 modified in no-fast-foward branch
 modified in conflict branch
 github上で更新
+Githubo上で再度更新
