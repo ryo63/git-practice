@@ -1,2 +1,2 @@
 新しいファイルをmainブランチで作成
-rebase pull用github上で編集
+pull時のrebase用コミット
